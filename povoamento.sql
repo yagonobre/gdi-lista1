@@ -44,7 +44,7 @@ INSERT INTO Pessoa (id, nome) VALUES (40, 'Gabrielly');
 --Endereço
 
 INSERT INTO Endereco (ID_pessoa, cep, uf, logradouro) VALUES (1, '50610-150', 'PE', 'Rua Renato de Medeiros, 80, Recife');
-INSERT INTO Endereco (ID_pessoaI, cep, uf, logradouro) VALUES (2, '50630-050', 'PE', 'Rua Honório Correia, 123, Recife');
+INSERT INTO Endereco (ID_pessoa, cep, uf, logradouro) VALUES (2, '50630-050', 'PE', 'Rua Honório Correia, 123, Recife');
 INSERT INTO Endereco (ID_pessoa, cep, uf, logradouro) VALUES (3, '05045-050', 'SP', 'Praça Alfredo Weiszflog, 0, São Paulo');
 INSERT INTO Endereco (ID_pessoa, cep, uf, logradouro) VALUES (4, '15264-100', 'MG', 'Rua Alberto Barata, 754, Belo Horizonte');
 INSERT INTO Endereco (ID_pessoa, cep, uf, logradouro) VALUES (5, '25552-150', 'PB', 'Avenida Gilberto Freyre, 1750, João Pessoa');
